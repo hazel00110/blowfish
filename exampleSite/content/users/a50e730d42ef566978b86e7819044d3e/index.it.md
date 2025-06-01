@@ -1,8 +1,8 @@
 ---
-                title: "Kyo's Garden"
-                tags: [个人网站, 博客]
-                externalUrl: "https://heykyo.com"
-                weight: 1041
+                title: "notes.bluesdriveamelia.space"
+                tags: [Blog, Sito personale]
+                externalUrl: "https://notes.bluesdriveamelia.space/"
+                weight: 591
                 showDate: false
                 showAuthor: false
                 showReadingTime: false
